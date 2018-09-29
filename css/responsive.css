@@ -76,4 +76,14 @@
     padding: 10px 20px;
     width: auto;
   }
+
+  #logo {
+    padding-top: 60px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  #social {
+    top: 60px;
+  }
 }
